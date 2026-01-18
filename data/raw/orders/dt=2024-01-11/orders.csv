@@ -1,0 +1,2 @@
+order_id,order_date,customer_id,product_id,quantity
+O1002,2024-01-11,C001,P001,2
